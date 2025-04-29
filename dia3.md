@@ -218,3 +218,22 @@ Otra cuali con 5 grupos
 Otra cuali con 4 grupos
 
 Si cruzo las 3 tengo en total = 10x5x4 = 200 grupos NO ME DA EL CEREBRO
+
+---
+
+Qué puede afectar al precio?
+- AÑO (inflacción)
+- GENERO ????
+- PLATAFORMA ???? Ya hay indicios
+- EDITORIAL ????
+
+PRECIO x AÑO = SCATTER PLOT (Dispersión)
+PRECIO x GENERO = LINEAS (Precio medio/mediano)
+                  BOXPLOT MULTIPLE (diagrama de caja/bigote) agrupando por la variable categórica (GENERO)
+ESTO MISMO SERIA PARA CADA UNA DE LAS VARIABLES CUALITATIVAS
+
+
+PRECIO x AÑO = SCATTER PLOT (Dispersión)
+            x GENERO (color)
+            x PLATAFORMA (color)
+            x EDITORIAL (color)
