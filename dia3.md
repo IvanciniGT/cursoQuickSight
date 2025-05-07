@@ -237,3 +237,62 @@ PRECIO x AÑO = SCATTER PLOT (Dispersión)
             x GENERO (color)
             x PLATAFORMA (color)
             x EDITORIAL (color)
+
+----
+
+Tablas de percentiles - Pediatras. Hablamos de individuos entre 0 y 14 años
+
+Edad
+Sexo
+Altura
+
+
+
+Peso:
+Os digo... entra por la puerta alguien de 2 meses. Dadme una estimación del peso.
+  Entorno a 3kg..4kg
+Os digo... entra por la puerta alguien de 14 años. Dadme una estimación del peso.
+  Entorno a 50 kgs
+  ^^ ACERTAREMOS más o menos? BASTANTE
+     Os jugáis 50€ a que acertáis 5kgs arriba/abajo?
+
+Os digo... entra por la puerta alguien que es un niño (sexo hombre!). Dadme una estimación del peso.
+  NPI
+  2.5 kgs... 60 kgs
+     Os jugáis 5€ a que acertáis 5kgs arriba/abajo? Ni de broma
+
+La variable EDAD guarda mucha relación con la variable PESO.
+La variable sexo guarda mucha relación con la variable PESO? NO.. muy poquita
+La variable ALTURA guarda mucha relación con la variable PESO. SI
+  Lo que pasa es que parte de esa relación ya la contemplamos con la variable EDAD.
+
+
+Porque lo que cuenta la variable sexo no lo cuenta la variable EDAD
+Hay relación entre sexo y edad? NINGUNA
+En cambio si hay relación entre edad y altura
+O entre fecha de publicación y plataforma
+Parte de la carestía de un juego debido a la plataforma... realmente es porque esa plataforma se ha jugado en un momento determinado del tiempo... donde los precios eran más caros o más baratos.
+
+El sexo... por si solo no nos cuenta mucho. Pero nos cuenta algo que solo el sexo nos cuenta.
+Las niñas entre 9-13 años tienden a ser un poquito más altas que los niños de la misma edad.
+Entre 2-5 cms.
+
+Cuando tomamos decisiones de negocio... y nos basamos en datos (BI) (y aunque no sean decisiones de negocio... es lo mismo) me da igual equivocarme. Sabemos que nos vamos a equivocar.
+No somos dios. ni omnipotentes, ni omniscientes, ni nada de nada.
+Solo Dios sabe lo que va a pasar en el futuro.
+Lo único que me interesa es ser capaz de CUANTIFICAR la probabilidad de equivocarme!
+
+    Le doy a esta persona la hipoteca? o no? Me da igual equivocarme.
+    Lo que me interesa, lo único que me interesa es saber si la probabilidad de que me equivoque es del 1% o del 99%.
+    Si sé a priori que me equivocaré en el 25% de las decisiones... me vale!
+
+    Ese 25% de gastos que tengo extra por las personas que no me pagan la hipoteca... 
+    lo reparto entre el 75% de los que si me la pagan... 
+    Y ya lo tengo compensado!
+
+    Y si consigo rebajar esa probabilidad un 2%... menos tengo que compensar... y más barato salgo al mercado.
+
+Compañía de seguros médicos.
+Y tengo todos los datos habidos y por haber de una persona... desde que nació. Que come, que bebe.. que deportes hace y ha hecho. Su genoma.
+Tengo idea de los costes que me va a ocasionar esa persona el año que viene? Soy capaz de predecirlo?
+NPI.
